@@ -1,0 +1,45 @@
+.blogExternal{
+    margin:5px 0px 5px 0px;
+    
+}
+
+.blogInside{
+    margin:auto;
+    width:700px;
+    height: auto;
+    border-style:solid;
+    border-color:rgb(139, 176, 205);
+    border-radius: 5px;
+}
+
+.bloghead{
+    margin:10px;
+    height:50px;
+    /* border-style:solid;
+    border-color:blueviolet; */
+}
+
+.blogheadicon{
+    margin: 5px;
+    float:left;
+}
+
+.blogheadinfo{
+    margin: 5px;
+    float:left;
+}
+
+.blogbody{
+    margin:10px;
+    padding:5px;
+    height:auto;
+    /* border-style:solid;
+    border-color:blueviolet; */
+}
+
+.blogfootExteral{
+    margin:10px;
+    height:auto;
+    /* border-style:solid;
+    border-color:blueviolet; */
+}

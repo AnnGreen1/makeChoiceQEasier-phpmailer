@@ -1,0 +1,46 @@
+#makeChoiceQEasier {
+    font-family: "微软雅黑";
+    font-size: 20px;
+    font-style: italic;
+    color: goldenrod;
+    
+}
+
+/* .layui-logo{
+    position:absolute;
+    left:0;
+    top:0;
+    width:200px;
+    height:100%;
+    line-height:60px;
+    text-align:center;
+    color:#009688;
+    font-size:16px;
+    box-shadow:0 1px 2px 0 rgb(0 0 0 / 15%)
+} */
+
+/*修改layui的源码，改变导航栏颜色
+原始代码如下
+.layui-layout-admin .layui-header
+{
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    background-color:rgb(139, 176, 205)
+}
+
+*/
+/* .layui-layout-admin-myself .layui-header
+{
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    background-color:rgb(139, 176, 205)
+} */
+
+
+
+/*更改了layui的css源码,把layui的源码中以下选择器代码注释了*/
+/* .layui-layout-admin .layui-header{position:fixed;top:0;left:0;right:0;background-color:rgb(139, 176, 205)} */
